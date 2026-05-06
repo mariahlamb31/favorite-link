@@ -14,8 +14,8 @@
 
 
 ### May 6, 2026 
-- [nandieling/OmniPlay: 览影：支持mac、win双平台的海报墙视频播放器](https://github.com/nandieling/OmniPlay) 
-- [Hmbown/DeepSeek-TUI: 适用于DeepSeek模型的编码代理，可在您的终端运行](https://github.com/Hmbown/DeepSeek-TUI) 
+- [nandieling/OmniPlay: 览影：支持 mac、win 双平台的海报墙视频播放器](https://github.com/nandieling/OmniPlay) 
+- [Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行](https://github.com/Hmbown/DeepSeek-TUI) 
 ### May 3, 2026 
 - [Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。](https://github.com/Sambigeara/pollen) 
 - [jegly/Box: 适用于 Android 的私有本地 AI 套件。基于 Google AI Edge Gallery 的分支，集成 llama.cpp、whisper.cpp、stable-diffusion.cpp、支持 GGUF 导入、语音聊天、视觉 AI、本地图片生成、生物识别锁、加密历史记录，以及 NPU/TPU/GPU 加速。](https://github.com/jegly/Box) 

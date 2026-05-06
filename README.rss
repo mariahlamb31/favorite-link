@@ -3,12 +3,38 @@
   <channel>
     <title>❤️ 每天收集喜欢的开源项目</title>
     <description>❤️ 每天收集喜欢的开源项目</description>
-    <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
+    <pubDate>Tue, 05 May 2026 16:00:00 +0000</pubDate>
     <generator>Laminas_Feed_Writer 2 (https://getlaminas.org)</generator>
     <link>https://github.com/guanguans/favorite-link</link>
     <author>ityaozm@gmail.com (guanguans)</author>
     <dc:creator>guanguans</dc:creator>
     <atom:link rel="self" type="application/rss+xml" href="https://raw.githubusercontent.com/guanguans/favorite-link/master/README.rss"/>
+    <item>
+      <title>nandieling/OmniPlay: 览影：支持 mac、win 双平台的海报墙视频播放器</title>
+      <pubDate>Tue, 05 May 2026 16:00:00 +0000</pubDate>
+      <link>https://github.com/nandieling/OmniPlay</link>
+      <guid>https://github.com/nandieling/OmniPlay</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/nandieling/OmniPlay" target="_blank">nandieling/OmniPlay: 览影：支持 mac、win 双平台的海报墙视频播放器</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/nandieling/OmniPlay" target="_blank">https://github.com/nandieling/OmniPlay</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行</title>
+      <pubDate>Tue, 05 May 2026 08:00:00 +0000</pubDate>
+      <link>https://github.com/Hmbown/DeepSeek-TUI</link>
+      <guid>https://github.com/Hmbown/DeepSeek-TUI</guid>
+      <content:encoded><![CDATA[<a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">Hmbown/DeepSeek-TUI: 适用于 DeepSeek 模型的编码代理，可在您的终端运行</a>
+<h3>相关链接</h3>
+<ul>
+    <li><a href="https://github.com/Hmbown/DeepSeek-TUI" target="_blank">https://github.com/Hmbown/DeepSeek-TUI</a></li>
+    <li><a href="https://github.com/guanguans/favorite-link" target="_blank">https://github.com/guanguans/favorite-link</a></li>
+</ul>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
     <item>
       <title>Sambigeara/pollen: 分布式 WASM 运行时。工作负载在零信任网格上自我部署。一个静态二进制文件。</title>
       <pubDate>Sat, 02 May 2026 16:00:00 +0000</pubDate>
